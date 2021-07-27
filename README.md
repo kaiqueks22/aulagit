@@ -1,2 +1,2 @@
 # aulagit
-mechendo no git na aula da digital house!
+mechendo no git na 1º aula da digital house!
